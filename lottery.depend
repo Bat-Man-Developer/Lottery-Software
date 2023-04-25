@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1623244348 source:c:\users\student\onedrive\desktop\lottery program x\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<iomanip>
+
+1667392214 source:c:\users\kkaym\onedrive\desktop\codeblocks projects\lottery program x\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<iomanip>
+
